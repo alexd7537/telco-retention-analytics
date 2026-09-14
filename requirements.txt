@@ -1,0 +1,4 @@
+pandas>=2.2,<3.1
+reportlab>=4.0,<5.0
+# Opcional para abrir el notebook interactivamente: jupyterlab
+# SQLite, unittest y los generadores PBIP vienen con Python / este proyecto.
