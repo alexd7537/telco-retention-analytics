@@ -1,3 +1,5 @@
 # Notebook del caso Telco
 
-Exploración explicada, con código y resultados ejecutados. Para ejecutarla de nuevo, descarga el ZIP completo y conserva su estructura de carpetas.
+`01_exploracion.ipynb` combina explicación, código y resultados ejecutados. `01_exploracion.py` es su versión de texto.
+
+Puedes leerlos aquí. Para volver a ejecutarlos, descarga el ZIP completo de la raíz y abre el notebook dentro de su estructura de carpetas; necesita la fuente y los resultados del análisis.
